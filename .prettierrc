@@ -1,0 +1,11 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "alignObjectProperties": false,
+  "printWidth": 100,
+  "arrowParens": "always",
+  "typeAngleBracketSpacking": false,
+  "endOfLine": "lf",
+  "semi": true,
+  "breakBeforeElse": true
+}
